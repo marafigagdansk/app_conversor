@@ -1,0 +1,35 @@
+# Build e artefatos de compilação
+build/
+app/build/
+bin/
+out/
+*.class
+
+# Gradle
+.gradle/
+buildOutput/
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# Configurações locais da máquina / SDK
+local.properties
+.cxx/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de log e relatórios
+*.log
+captures/
+.externalNativeBuild/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
