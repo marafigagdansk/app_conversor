@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Mara\\.gradle\\daemon\\8.2\\br.com.unicuritiba.sgc.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mara\\.gradle\\daemon\\8.2\\br.com.unicuritiba.sgc.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "br.com.unicuritiba.sgc.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "br.com.unicuritiba.sgc.app-main-33:/layout/activity_main.xml"
+    }
+]

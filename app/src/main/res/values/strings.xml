@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conversor Bitcoin</string>
+    <string name="title_conversor">Conversor Bitcoin para Reais</string>
+    <string name="hint_btc">Quantidade em Bitcoin (BTC)</string>
+    <string name="btn_converter">CONVERTER</string>
+    <string name="label_resultado">Resultado:</string>
+    <string name="placeholder_resultado">R$ 0,00</string>
+    <string name="erro_campo_vazio">Por favor, preencha o campo de Bitcoin!</string>
+</resources>

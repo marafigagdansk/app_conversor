@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color card_bg
+color primary
+color primary_dark
+color text_primary
+color text_secondary
+color white
+id btnConverter
+id editBitcoin
+id txtResultado
+layout activity_main
+string app_name
+string btn_converter
+string erro_campo_vazio
+string hint_btc
+string label_resultado
+string placeholder_resultado
+string title_conversor
+style Theme.ConversorBitcoin

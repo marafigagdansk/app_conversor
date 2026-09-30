@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#4CAF50</color>
+    <color name="background">#121824</color>
+    <color name="card_bg">#1E293B</color>
+    <color name="primary">#F7931A</color>
+    <color name="primary_dark">#D87D10</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Conversor Bitcoin</string>
+    <string name="btn_converter">CONVERTER</string>
+    <string name="erro_campo_vazio">Por favor, preencha o campo de Bitcoin!</string>
+    <string name="hint_btc">Quantidade em Bitcoin (BTC)</string>
+    <string name="label_resultado">Resultado:</string>
+    <string name="placeholder_resultado">R$ 0,00</string>
+    <string name="title_conversor">Conversor Bitcoin para Reais</string>
+    <style name="Theme.ConversorBitcoin" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
